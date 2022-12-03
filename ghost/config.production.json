@@ -16,15 +16,15 @@
         }
     },
     "mail": {
-        "from": "'Custom Name' <myemail@address.com>", 
+        "from": "'Custom Name' blog.puspenduofficial@gmail.com", 
         "transport": "SMTP",
         "logger": true,
         "options": {
             "host": "",
             "secureConnection": false,
             "auth": {
-                "user": "",
-                "pass": ""
+                "user": "puspenduofficial",
+                "pass": "puspenduofficial"
             }
         }
     },

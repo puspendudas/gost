@@ -39,7 +39,7 @@ services:
       - "3306"
     environment:
       # Beware of special characters in password that can be interpreted by shell
-      - MYSQL_ROOT_PASSWORD= #specify your root pass
+      - MYSQL_ROOT_PASSWORD=gostpuspendu #specify your root pass
       - MYSQL_DATABASE=ghostdata
       - MYSQL_USER=ghostusr
       - MYSQL_PASSWORD=gostpuspendu #please change this
